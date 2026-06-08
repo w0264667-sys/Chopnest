@@ -1,0 +1,1 @@
+{"name":"UserPoints","type":"object","properties":{"user_email":{"type":"string"},"points":{"type":"number","default":0},"total_earned":{"type":"number","default":0},"total_redeemed":{"type":"number","default":0},"history":{"type":"array","items":{"type":"object"}}},"required":["user_email"]}
